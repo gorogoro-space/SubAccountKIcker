@@ -1,2 +1,2 @@
 # SubAccountKicker
-SubAccountKicker
+Sub account kicker.

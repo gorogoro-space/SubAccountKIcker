@@ -1,0 +1,6 @@
+name: SubAccountKicker
+version: 1.0
+api-version: 1.15
+description: Sub account kicker.
+author: kubotan
+main: space.gorogoro.subaccountkicker.SubAccountKicker
